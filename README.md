@@ -1,6 +1,5 @@
 # Douglas Luan
 
-[![Hexpm](https://img.shields.io/badge/Hex.pm-dougbr-blueviolet?logo=elixir&style=flat-square&link=https%3A%2F%2Fhex.pm%2Fusers%2Fdougbr)](https://hex.pm/users/dougbr)
 [![Static Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![Typescripit](https://img.shields.io/badge/Typescript-%233178C6?style=flat-square&logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
 [![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir)](https://elixir-lang.org/)
