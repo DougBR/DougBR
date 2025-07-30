@@ -20,7 +20,6 @@ Whether you need help or just want to chat, feel free reach me out at:
 <br>
 
 ![DougBR's GitHub stats](https://github-readme-stats.vercel.app/api?username=DougBR&show_icons=true&count_private=true&theme=dracula&bg_color=00000000)
-![GitHub Streak](https://streak-stats.demolab.com?user=DougBR&theme=transparent&mode=weekly)
 ![DougBR's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DougBR&show_icons=true&count_private=true&theme=dracula&bg_color=00000000&langs_count=20&card_width=960)
 
 <!--
