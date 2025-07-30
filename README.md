@@ -10,9 +10,9 @@ Over the last seven years, I've specialized in functional programming, with a st
 
 Whether you need help or just want to chat, feel free reach me out at:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Lima-0077B5?style=for-the-badge)](https://www.linkedin.com/in/dougform)
-[![Email](https://img.shields.io/badge/-contato%40daniel.ws-76BB21?style=for-the-badge&logo=mailboxdotorg&logoColor=ffffff)](mailto:douglasctm@gmail.com)
-[![Static Badge](https://img.shields.io/badge/site-daniel.ws-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=ffffff)](https://daniel.ws/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Douglas_Luan-0077B5?style=for-the-badge)](https://www.linkedin.com/in/dougform)
+[![Email](https://img.shields.io/badge/-douglasctm%40gmail.com-76BB21?style=for-the-badge&logo=mailboxdotorg&logoColor=ffffff)](mailto:douglasctm@gmail.com)
+[![Static Badge](https://img.shields.io/badge/dougbr.github.io-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=ffffff)](https://dougbr.github.io)
 
 
 ---
