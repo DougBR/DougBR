@@ -4,9 +4,10 @@
 [![Typescripit](https://img.shields.io/badge/Typescript-%233178C6?style=flat-square&logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
 [![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir)](https://elixir-lang.org/)
 
+<!--
 Since 2012, I've been working in web development, helping companies and startups build and scale their products from the ground up using modern, cutting-edge technologies.
 Over the last seven years, I've specialized in functional programming, with a strong focus on Elixir. During this time, I've led teams as a Tech Lead and contributed to several open source initiatives.
-
+-->
 Whether you need help or just want to chat, feel free reach me out at:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Douglas_Luan-0077B5?style=for-the-badge)](https://www.linkedin.com/in/dougform)
