@@ -2,8 +2,9 @@
 
 [![Static Badge](https://img.shields.io/badge/Machine%20Learning-Machine%20Learning-blue)](https://www.teses.usp.br/teses/disponiveis/3/3141/tde-05022024-111423/en.php)
 [![Static Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
-[![Typescripit](https://img.shields.io/badge/Typescript-%233178C6?style=flat-square&logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
 [![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir)](https://elixir-lang.org/)
+[![Typescripit](https://img.shields.io/badge/Typescript-%233178C6?style=flat-square&logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
+[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](http://aws.amazon.com)
 
 <!--
 Since 2012, I've been working in web development, helping companies and startups build and scale their products from the ground up using modern, cutting-edge technologies.
